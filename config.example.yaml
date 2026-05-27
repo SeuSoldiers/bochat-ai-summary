@@ -1,0 +1,9 @@
+base_url: "http://10.210.126.58:48080"
+bot_token: "btoken_xxx"
+command_prefix: "/sum"
+context_window_size: 30
+group_whitelist: []
+group_blacklist: []
+blacklist_first: true
+response_max_chars: 1200
+dedupe_seconds: 30
