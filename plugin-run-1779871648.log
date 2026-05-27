@@ -1,0 +1,12 @@
+2026-05-27 16:47:38,353 WARNING bochat_ai_summary ws connection payload timeout, continue listening
+2026-05-27 16:47:41,357 WARNING bochat_ai_summary ws message stream idle, fallback to polling mode
+2026-05-27 16:47:41,384 INFO httpx HTTP Request: GET http://10.210.126.58:48080/api/v1/groups/g_d90ba658-60df-4ddb-924e-ce89d8b7ba00/messages?limit=1 "HTTP/1.1 200 OK"
+2026-05-27 16:47:41,403 INFO httpx HTTP Request: GET http://10.210.126.58:48080/api/v1/groups/g_d90ba658-60df-4ddb-924e-ce89d8b7ba00/messages?limit=50 "HTTP/1.1 200 OK"
+2026-05-27 16:47:43,418 INFO httpx HTTP Request: GET http://10.210.126.58:48080/api/v1/groups/g_d90ba658-60df-4ddb-924e-ce89d8b7ba00/messages?limit=50 "HTTP/1.1 200 OK"
+2026-05-27 16:47:45,432 INFO httpx HTTP Request: GET http://10.210.126.58:48080/api/v1/groups/g_d90ba658-60df-4ddb-924e-ce89d8b7ba00/messages?limit=50 "HTTP/1.1 200 OK"
+2026-05-27 16:47:47,447 INFO httpx HTTP Request: GET http://10.210.126.58:48080/api/v1/groups/g_d90ba658-60df-4ddb-924e-ce89d8b7ba00/messages?limit=50 "HTTP/1.1 200 OK"
+2026-05-27 16:47:49,462 INFO httpx HTTP Request: GET http://10.210.126.58:48080/api/v1/groups/g_d90ba658-60df-4ddb-924e-ce89d8b7ba00/messages?limit=50 "HTTP/1.1 200 OK"
+2026-05-27 16:47:51,491 INFO httpx HTTP Request: GET http://10.210.126.58:48080/api/v1/groups/g_d90ba658-60df-4ddb-924e-ce89d8b7ba00/messages?limit=50 "HTTP/1.1 200 OK"
+2026-05-27 16:47:53,508 INFO httpx HTTP Request: GET http://10.210.126.58:48080/api/v1/groups/g_d90ba658-60df-4ddb-924e-ce89d8b7ba00/messages?limit=50 "HTTP/1.1 200 OK"
+2026-05-27 16:47:55,526 INFO httpx HTTP Request: GET http://10.210.126.58:48080/api/v1/groups/g_d90ba658-60df-4ddb-924e-ce89d8b7ba00/messages?limit=50 "HTTP/1.1 200 OK"
+2026-05-27 16:47:57,543 INFO httpx HTTP Request: GET http://10.210.126.58:48080/api/v1/groups/g_d90ba658-60df-4ddb-924e-ce89d8b7ba00/messages?limit=50 "HTTP/1.1 200 OK"

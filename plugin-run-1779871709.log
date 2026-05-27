@@ -1,0 +1,11 @@
+2026-05-27 16:48:39,176 WARNING bochat_ai_summary ws connection payload timeout, continue listening
+2026-05-27 16:48:42,180 WARNING bochat_ai_summary ws message stream idle, fallback to polling mode
+2026-05-27 16:48:42,247 INFO httpx HTTP Request: GET http://10.210.126.58:48080/api/v1/groups/g_d90ba658-60df-4ddb-924e-ce89d8b7ba00/messages?limit=1 "HTTP/1.1 200 OK"
+2026-05-27 16:48:42,272 INFO httpx HTTP Request: GET http://10.210.126.58:48080/api/v1/groups/g_d90ba658-60df-4ddb-924e-ce89d8b7ba00/messages?limit=50 "HTTP/1.1 200 OK"
+2026-05-27 16:48:44,294 INFO httpx HTTP Request: GET http://10.210.126.58:48080/api/v1/groups/g_d90ba658-60df-4ddb-924e-ce89d8b7ba00/messages?limit=50 "HTTP/1.1 200 OK"
+2026-05-27 16:48:44,309 INFO httpx HTTP Request: GET http://10.210.126.58:48080/api/v1/groups/g_d90ba658-60df-4ddb-924e-ce89d8b7ba00 "HTTP/1.1 200 OK"
+2026-05-27 16:48:44,325 INFO httpx HTTP Request: GET http://10.210.126.58:48080/api/v1/groups/g_d90ba658-60df-4ddb-924e-ce89d8b7ba00/messages?limit=30 "HTTP/1.1 200 OK"
+2026-05-27 16:48:44,594 INFO httpx HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-05-27 16:48:49,821 INFO httpx HTTP Request: POST http://10.210.126.58:48080/api/v1/message/send "HTTP/1.1 201 Created"
+2026-05-27 16:48:51,842 INFO httpx HTTP Request: GET http://10.210.126.58:48080/api/v1/groups/g_d90ba658-60df-4ddb-924e-ce89d8b7ba00/messages?limit=50 "HTTP/1.1 200 OK"
+2026-05-27 16:48:53,857 INFO httpx HTTP Request: GET http://10.210.126.58:48080/api/v1/groups/g_d90ba658-60df-4ddb-924e-ce89d8b7ba00/messages?limit=50 "HTTP/1.1 200 OK"

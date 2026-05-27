@@ -1,0 +1,16 @@
+ACCOUNT prod_sum_1779871269
+REGISTER 201 {'account': 'prod_sum_1779871269', 'created_at': '2026-05-27T08:41:08.873163366+00:00', 'is_super_admin': False, 'message': '注册成功', 'name': 'ProdSum1779871269', 'token': 'u:u_c1d1d1ca-d942-46eb-a758-9d4784ecfac7:1779871268:7fec22833f3f1b893c0a497181493411f8c1009a845d6cb8a601d561e0cf25b5'}
+LOGIN 200 {'is_super_admin': False, 'message': '登录成功', 'name': 'ProdSum1779871269', 'token': 'u:u_c1d1d1ca-d942-46eb-a758-9d4784ecfac7:1779871268:7fec22833f3f1b893c0a497181493411f8c1009a845d6cb8a601d561e0cf25b5'}
+BOTS 200 {'bots': [{'avatar_url': None, 'bot_id': 'b_8bdb22c0-baa9-48ce-af69-ffe2540161c5', 'created_at': '2026-05-27T08:41:08.873163366+00:00', 'description': '用户注册时自动创建的默认Bot', 'name': 'ProdSum1779871269的默认Bot', 'owner_id': 'u_c1d1d1ca-d942-46eb-a758-9d4784ecfac7', 'status': 'active', 'token': 'b_8bdb22c0-baa9-48ce-af69-ffe2540161c5:1779871268:945b3a7f74aedcf599da68ced43495d1aaaba9754a4df1f97416d40a06fd9af3', 'updated_at': '2026-05-27T08:41:08.873163366+00:00'}]}
+CREATE_GROUP 201 {'avatar_url': None, 'created_at': '2026-05-27T08:41:08.967214306+00:00', 'creator_id': 'u_c1d1d1ca-d942-46eb-a758-9d4784ecfac7', 'description': 'ai summary prod test', 'group_code': 'PSUM71269', 'group_id': 'g_d90ba658-60df-4ddb-924e-ce89d8b7ba00', 'is_public': False, 'name': '生产总结测试群-1269', 'status': 'active', 'updated_at': '2026-05-27T08:41:08.967214306+00:00'}
+SEND 201 36 今天讨论发布节奏，目标本周五灰度。
+SEND 201 37 后端确认接口兼容，需补一个超时重试。
+SEND 201 38 前端说登录页文案今晚更新。
+SEND 201 39 运维提醒要提前准备回滚预案。
+SEND 201 40 决定明天中午前完成联调。
+SEND 201 41 测试提出两个高优先级缺陷需要修复。
+SEND 201 42 产品确认本期不做导出功能。
+SEND 201 43 行动项：张三修复接口超时，李四补联调脚本。
+SEND 201 44 风险点：第三方依赖接口稳定性未知。
+SEND 201 45 结论：按计划推进，明日复盘。
+FINAL {"bot_token": "b_8bdb22c0-baa9-48ce-af69-ffe2540161c5:1779871268:945b3a7f74aedcf599da68ced43495d1aaaba9754a4df1f97416d40a06fd9af3", "group_id": "g_d90ba658-60df-4ddb-924e-ce89d8b7ba00", "group_code": "PSUM71269"}
